@@ -8,6 +8,7 @@
  * Erdem
  * Barış
  * Çağatay
+ * Yuşa
 
 
 Tsirts 20 piece totally.
@@ -20,6 +21,7 @@ Tsirts 20 piece totally.
 - Fulya
 - Kevser x3
 - Zehra
+- Yuşa
 
 
 >
