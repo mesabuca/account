@@ -1,4 +1,0 @@
-g3l -c
-g3l -i
-echo "Koray +" > readme.md
-g3l -m "Init, koray done"
